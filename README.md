@@ -1,4 +1,4 @@
-# QuickRent
+![WhatsApp Image 2024-12-15 at 1 20 16 AM](https://github.com/user-attachments/assets/f9810358-2435-45f7-aa88-febbed116f56)# QuickRent
 QuickRent is a modern web platform that allows users to rent various tech gadgets including laptops, cameras, gaming consoles, and more. This project demonstrates a responsive and user-friendly interface for a gadget rental service.
 # QuickRent - Gadget Rental Platform
 
@@ -19,7 +19,14 @@ QuickRent is a modern web platform that allows users to rent various tech gadget
 
 
 # Screenshots
-![image](https://github.com/user-attachments/assets/26d5fd41-5239-46de-abfe-0516fe324d77)
+
+![WhatsApp Image 2024-12-15 at 1 16 37 AM](https://github.com/user-attachments/assets/396de69f-8bff-4785-a53c-ddedba00ecd3)
+![WhatsApp Image 2024-12-15 at 1 20 16 AM](https://github.com/user-attachments/assets/16c0ba64-bcaa-4dc4-800c-9f3952c7fe12)
+![WhatsApp Image 2024-12-15 at 1 17 56 AM](https://github.com/user-attachments/assets/c048cefa-3f44-44bf-ad02-36ab1c203ea0)
+![WhatsApp Image 2024-12-15 at 1 20 58 AM](https://github.com/user-attachments/assets/3bbdd433-37f5-488a-b13e-e9e52e632c2a)
+![WhatsApp Image 2024-12-15 at 1 19 12 AM](https://github.com/user-attachments/assets/2a608c71-88ff-42b1-9db5-57921c171410)
+![WhatsApp Image 2024-12-15 at 1 18 37 AM](https://github.com/user-attachments/assets/cc906037-3a87-490d-96a3-1203d64d155c)
+![WhatsApp Image 2024-12-15 at 1 25 45 AM](https://github.com/user-attachments/assets/82a6de2b-5c83-489c-9d93-de21b539cec3)
 
 
 # Technologies Used
