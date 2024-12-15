@@ -29,6 +29,7 @@ QuickRent is a modern web platform that allows users to rent various tech gadget
 ![WhatsApp Image 2024-12-15 at 1 25 45 AM](https://github.com/user-attachments/assets/82a6de2b-5c83-489c-9d93-de21b539cec3)
 
 
+
 # Technologies Used
 - HTML5
 - CSS3
