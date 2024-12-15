@@ -14,10 +14,6 @@ QuickRent is a modern web platform that allows users to rent various tech gadget
 - Contact form
 - Dynamic price calculation
 - Image preview for gadget listings
-
-# Live Demo
-
-
 # Screenshots
 
 ![WhatsApp Image 2024-12-15 at 1 16 37 AM](https://github.com/user-attachments/assets/396de69f-8bff-4785-a53c-ddedba00ecd3)
